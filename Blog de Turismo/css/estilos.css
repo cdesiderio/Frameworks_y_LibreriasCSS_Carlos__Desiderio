@@ -1,0 +1,70 @@
+ul {
+   list-style-type: none;
+    padding: 20px;
+    overflow: hidden;
+    border: 2px;
+    }
+li {
+    float: left;
+    }
+h4{
+    color: black;
+    font-style: italic;
+    margin-top: 80px;
+}
+.contenedor-3{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/ica.jpg);
+    background-size: cover;
+}
+.cabecera{
+    margin-left: 90px;
+}
+.enviar{
+    text-align: center;
+}
+.navegador{
+    padding: 0;
+    margin-top: 35px;
+}
+.imagen{
+    text-align: center;
+}
+
+.cabecera1{
+    width: 100%;
+    height: 105px;
+    background-color: orange;
+    align-content: center;
+}
+
+.main{
+    width: 100%;
+    color: beige;
+    text-align: center;
+}
+img{
+    padding: 0;
+    margin: 0;
+}
+.parrafo{
+    padding: 10px;
+    float: left;
+    max-width: 100%;
+     height: auto;
+}
+.texto_historia{
+    text-align: justify;
+    background-color: sandybrown;
+    padding: 20px;
+}
+.titulos{
+    text-align: center;
+    font-style: italic;
+}
+.pie-final{
+    background-color: aliceblue;
+}
